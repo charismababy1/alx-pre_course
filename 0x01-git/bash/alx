@@ -1,2 +1,5 @@
 -e#!/bin/bash\necho"ALX" 
 -e#!/bin/bash\n echo"ALX" 
+-e#!/bin/bash\n echo "ALX"
+#!/bin/bash
+  echo "ALX" 
